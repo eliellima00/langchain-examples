@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "./cuisine-chief-agent.py:app"
+  },
+  "env": "../.env"
+}
