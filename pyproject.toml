@@ -12,6 +12,7 @@ dependencies = [
     "jupyterlab>=4.5.1",
     "jupytext>=1.18.1",
     "langchain>=1.2.1",
+    "langchain-community>=0.4.1",
     "langchain-mcp-adapters>=0.2.1",
     "langchain-openai>=1.1.6",
     "langgraph-cli[inmem]>=0.4.11",
