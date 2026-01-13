@@ -1,7 +1,8 @@
 {
   "dependencies": ["."],
   "graphs": {
-    "agent": "./cuisine-chief-agent.py:app"
+    "agent": "./cuisine-chief-agent.py:app",
+    "email-assistant": "../notebooks/email-assistant.py:agent"
   },
   "env": "../.env"
 }
